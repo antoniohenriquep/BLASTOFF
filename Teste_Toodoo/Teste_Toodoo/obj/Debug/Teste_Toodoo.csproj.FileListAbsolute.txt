@@ -1,0 +1,8 @@
+C:\Users\anton\Documents\Desenvolvimento\BLASTOFF\BLASTOFF\Teste_Toodoo\Teste_Toodoo\bin\Debug\Teste_Toodoo.exe.config
+C:\Users\anton\Documents\Desenvolvimento\BLASTOFF\BLASTOFF\Teste_Toodoo\Teste_Toodoo\bin\Debug\Teste_Toodoo.exe
+C:\Users\anton\Documents\Desenvolvimento\BLASTOFF\BLASTOFF\Teste_Toodoo\Teste_Toodoo\bin\Debug\Teste_Toodoo.pdb
+C:\Users\anton\Documents\Desenvolvimento\BLASTOFF\BLASTOFF\Teste_Toodoo\Teste_Toodoo\obj\Debug\Teste_Toodoo.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\Desenvolvimento\BLASTOFF\BLASTOFF\Teste_Toodoo\Teste_Toodoo\obj\Debug\Teste_Toodoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\Documents\Desenvolvimento\BLASTOFF\BLASTOFF\Teste_Toodoo\Teste_Toodoo\obj\Debug\Teste_Toodoo.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\Desenvolvimento\BLASTOFF\BLASTOFF\Teste_Toodoo\Teste_Toodoo\obj\Debug\Teste_Toodoo.exe
+C:\Users\anton\Documents\Desenvolvimento\BLASTOFF\BLASTOFF\Teste_Toodoo\Teste_Toodoo\obj\Debug\Teste_Toodoo.pdb
